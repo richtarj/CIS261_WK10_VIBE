@@ -1,8 +1,3 @@
-#Joshua Richtarik
-#CIS261
-#Week 10 VIBE CODING
-
-
 #!/usr/bin/env python3
 import os
 import sys
